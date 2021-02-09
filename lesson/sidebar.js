@@ -1,7 +1,7 @@
 /*
  * @Author: Tmier
  * @Date: 2021-02-09 11:14:50
- * @LastEditTime: 2021-02-09 13:00:26
+ * @LastEditTime: 2021-02-09 14:10:12
  * @Description:
  * @LastModifiedBy: Tmier
  */
@@ -11,4 +11,6 @@ function Sidebar() {
   sidebar.innerText = 'sidebar'
   dom.append(sidebar)
 }
-export default Sidebar
+// export default 
+module.exports = Sidebar
+

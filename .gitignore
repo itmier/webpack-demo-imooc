@@ -1,2 +1,4 @@
 node_modules/
 lesson/node_modules/
+dist/
+lesson/dist

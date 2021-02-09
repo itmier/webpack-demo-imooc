@@ -1,7 +1,7 @@
 /*
  * @Author: Tmier
  * @Date: 2021-02-09 11:14:38
- * @LastEditTime: 2021-02-09 13:00:55
+ * @LastEditTime: 2021-02-09 14:10:04
  * @Description:
  * @LastModifiedBy: Tmier
  */
@@ -11,4 +11,5 @@ function Header() {
   header.innerText = 'header'
   dom.append(header)
 }
-export default Header
+// export default Header
+module.exports = Header

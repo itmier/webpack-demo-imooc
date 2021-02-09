@@ -1,7 +1,7 @@
 /*
  * @Author: Tmier
  * @Date: 2021-02-09 11:14:43
- * @LastEditTime: 2021-02-09 13:00:36
+ * @LastEditTime: 2021-02-09 14:09:37
  * @Description:
  * @LastModifiedBy: Tmier
  */
@@ -11,4 +11,5 @@ function Content() {
   content.innerText = 'content'
   dom.append(content)
 }
-export default Content
+// export default Content
+module.exports = Content
