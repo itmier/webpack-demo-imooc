@@ -1,0 +1,21 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itmier/webpack-demo-imooc.git"
+  },
+  "author": "Tmier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itmier/webpack-demo-imooc/issues"
+  },
+  "homepage": "https://github.com/itmier/webpack-demo-imooc#readme",
+  "devDependencies": {
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
